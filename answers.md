@@ -15,7 +15,7 @@ c. Work: O(log n), Span: O(log n)
 
 2.
 
-a. coin denominations D = [1, 4, 5] and target amount N = 8, the greedy algorithm picks 5 and three 1s (4 coins), but the optimal solution uses two 4s (only 2 coins).
+a. coin denominations D = [1, 4, 5] and target amount N = 8, the greedy algorithm picks 5 and three 1s, 4 coins, but the optimal solution uses two 4s, two coins.
 
 b. This problem exhibits optimal substructure since it builds the solution to the overall problem by solving smaller, simpler subproblems.
 
