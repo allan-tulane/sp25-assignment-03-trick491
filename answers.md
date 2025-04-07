@@ -5,6 +5,7 @@
 
 
 Place all written answers from `assignment-03.md` here for easier grading.
+
 1. 
 
 a. start with a number N and an empty list of coins. Find the largest power of 2, denoted as 2^k, where 2^k ≤ N. Deduct 2^k from N and append 2^k to the coin list until N ≤ 1, then output the resulting list of coins.
